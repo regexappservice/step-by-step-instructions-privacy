@@ -82,7 +82,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or your data, please use our privacy inquiry form:
 
-**Privacy Inquiry Form**: https://forms.gle/BftXp2ic92soCyhS6
+**Privacy Inquiry Form**: [https://forms.gle/BftXp2ic92soCyhS6](https://forms.gle/BftXp2ic92soCyhS6)
 
 We will respond to your privacy inquiries within 90 days.
 
