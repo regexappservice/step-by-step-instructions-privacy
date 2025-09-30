@@ -1,10 +1,10 @@
-# Privacy Policy for Step by Step
+# Privacy Policy for Step by Step Instructions
 
 **Last Updated: September 29, 2025**
 
 ## Introduction
 
-This Privacy Policy describes how Step by Step ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application.
+This Privacy Policy describes how Step by Step Instructions ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application.
 
 ## Information We Collect
 
