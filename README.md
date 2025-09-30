@@ -1,1 +1,1 @@
-# step-by-step-privacy
+# step-by-step-instructions-privacy
